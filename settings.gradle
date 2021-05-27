@@ -1,0 +1,2 @@
+rootProject.name = "LOLHS_Tracker_Java"
+include ':app'
